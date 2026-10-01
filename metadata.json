@@ -1,0 +1,6 @@
+{
+  "name": "Fintech Market Terminal",
+  "description": "Comprehensive real-time global financial markets terminal inspired by TradingView, featuring live indices, stocks, crypto, forex, commodities, and yield curves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
